@@ -4,7 +4,7 @@
 
 > Kelola keuangan pribadi dengan mudah, aman, dan 100% offline!
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/[username]/myuang/releases)
+[![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/[username]/myuang/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg)](https://www.android.com/)
 
@@ -56,7 +56,7 @@
 
 ### Download APK
 
-**Latest Release:** [MyUang v1.0.0](https://github.com/[username]/myuang/releases/latest)
+**Latest Release:** [MyUang v1.0.1](https://github.com/[username]/myuang/releases/latest)
 
 ```
 File: MyUang-v1.0.0.apk
