@@ -59,7 +59,7 @@
 **Latest Release:** [MyUang v1.0.1](https://github.com/[username]/myuang/releases/latest)
 
 ```
-File: MyUang-v1.0.0.apk
+File: MyUang-v1.0.1.apk
 Size: 52 MB
 Platform: Android 5.0+
 ```
@@ -158,7 +158,7 @@ Contributions are welcome! Feel free to:
 
 ## 📝 Changelog
 
-### Version 1.0.0 (2026-06-14)
+### Version 1.0.1 (2026-06-14)
 - 🎉 Initial release
 - ✨ Full transaction management
 - 📊 Interactive analytics with charts
